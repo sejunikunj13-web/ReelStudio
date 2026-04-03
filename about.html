@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><title>About | ReelStudio</title><script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <style>body{background:#050505;color:white;font-family:'Inter',sans-serif;overflow-x:hidden;} .glass-nav{background:rgba(0,0,0,0.7);backdrop-filter:blur(15px);}</style>
+</head>
+<body>
+    <nav class="fixed w-full z-50 p-6 flex justify-between items-center glass-nav uppercase font-bold text-[10px] tracking-widest">
+<a href="index.html" class="flex items-center gap-2">
+    <img src="src/assets/images/logo.png" alt="ReelStudio Logo" class="h-8 md:h-10 w-auto object-contain">
+    <span class="text-xl font-black tracking-tighter italic hidden md:block">REEL<span class="text-amber-500">STUDIO</span></span>
+</a>        <div class="space-x-8"><a href="index.html">Home</a><a href="portfolio.html">Portfolio</a><a href="services.html">Services</a><a href="about.html" class="text-amber-500">About</a><a href="contact.html">Contact</a></div>
+    </nav>
+
+    <section class="pt-40 pb-20 px-6 max-w-5xl mx-auto text-center">
+        <h1 data-aos="fade-down" class="text-6xl md:text-8xl font-black mb-10 uppercase tracking-tighter leading-none">The Man Behind <br><span class="text-amber-500 italic">The Lens.</span></h1>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-16 items-center mb-32">
+            <div data-aos="fade-right" class="aspect-[4/5] bg-zinc-900 rounded-[40px] border border-white/10 overflow-hidden-hidden relative group">
+                  <img src="src/assets/images/profile.jpg" alt="Nikunj Seju" class="w-full h-full object-cover group-hover:scale-105 transition duration-700"   onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+            </div>
+            <div data-aos="fade-left" class="text-left">
+                <h2 class="text-amber-500 font-black text-2xl uppercase mb-6 italic">Nikunj Seju</h2>
+                <p class="text-gray-400 leading-relaxed mb-6">"Transforming raw vision into high-fidelity cinematic narratives. With a decade of expertise in post-production, I specialize in crafting immersive visual experiences that resonate.</p>
+                <div class="flex gap-4">
+                    <div class="bg-white/5 p-4 rounded-2xl border border-white/5"><div class="text-2xl font-black">250+</div><div class="text-[8px] uppercase text-gray-500">Films</div></div>
+                    <div class="bg-white/5 p-4 rounded-2xl border border-white/5"><div class="text-2xl font-black">10+</div><div class="text-[8px] uppercase text-gray-500">Years</div></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>AOS.init({ duration: 1000, once: true, easing: 'ease-out' });</script>
+</body>
+</html>

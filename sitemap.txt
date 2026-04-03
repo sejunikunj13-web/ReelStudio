@@ -1,0 +1,60 @@
+Page: **Home**
+ - Navbar
+ - Hero Header Section: Cinematic hero section with looping video background, minimalist headline, and premium positioning.
+ - Portfolio List Section: Slider showcasing selected works across categories (Commercials, Documentaries, Social Media) with quick access to featured projects.
+ - How It Works Section: Three-step process overview: Pre-production, Production, Delivery, each with a brief description and icon/visual.
+ - Feature Section: "Why Us" section highlighting expertise in cinematic storytelling, premium clientele, and unique creative approach.
+ - CTA Section: Strong call-to-action inviting visitors to view portfolio or start a project inquiry.
+ - Footer
+
+Sub-pages: Portfolio, Services, About, Contact/Booking
+
+
+Page: **Portfolio**
+ - Navbar
+ - Header Section: Page title and introductory text emphasizing the studio’s cinematic range and expertise in diverse formats.
+ - Portfolio List Section: Categorized video grid of works with filter options for Commercials, Documentaries, and Social Media.
+ - FAQ Section: Answers to common questions about project scope, rights, and portfolio submissions.
+ - CTA Section: Call to action inviting viewers to request a quote or book a discovery call.
+ - Footer
+
+Sub-pages: Portfolio Item
+
+
+Page: **Portfolio Item**
+ - Navbar
+ - Portfolio Item Header Section: Large cinematic video player or showcase image, project title, client/brand, category, and brief project summary.
+ - Portfolio Item Body Section: In-depth project story: objectives, creative approach, challenges, and solutions.
+ - Portfolio Item Body Section: Production details: services provided, team/roles involved, gear/tech used, notable techniques or effects.
+ - Testimonial Section: Client testimonial or review related to the project (if available).
+ - CTA Section: Call-to-action encouraging visitors to view more work or start a project inquiry.
+ - Footer
+
+Page: **Services**
+ - Navbar
+ - Header Section: Premium, minimalist header with page title ("Our Services") and a cinematic, dark-themed background image.
+ - Features List Section: Overview of main service tiers: Basic Edit, Full Production, Motion Graphics—each with a succinct description and icon.
+ - Pricing Section: Detailed tiered pricing tables for each service, outlining inclusions and add-ons for high-ticket transparency.
+ - FAQ Section: Frequently Asked Questions addressing process, timelines, revisions, and what’s included.
+ - CTA Section: Conversion-oriented call-to-action inviting visitors to request a custom quote or book a discovery call.
+ - Footer
+
+Page: **About**
+ - Navbar
+ - Header Section: Dark-themed cinematic header with a bold mission statement about storytelling and excellence in video production.
+ - About Section: Brief narrative about the studio’s background, philosophy, and approach to high-end video creation.
+ - Team Section: Profile(s) of key team member(s) with professional photos, roles, and short bios emphasizing expertise and passion.
+ - Stats Section: Impressive stats (e.g., years in business, awards, high-profile clients, completed projects) to reinforce credibility.
+ - Gallery Section: Cinematic gallery or behind-the-scenes images/videos highlighting the creative process and studio environment.
+ - Features List Section: Tech stack and gear list, showcasing top-tier equipment and software used to deliver premium results.
+ - CTA Section: Call-to-action encouraging visitors to view the portfolio or start a conversation about their next project.
+ - Footer
+
+Page: **Contact/Booking**
+ - Navbar
+ - Header Section: Page header with title "Contact & Booking" and a brief introductory statement emphasizing a premium, personalized approach to client projects.
+ - Contact Section: Contact details including studio address, phone, and email for direct communication.
+ - Contact Form Section: Detailed project inquiry form capturing name, company, email, phone, project type, budget, desired timeline, and a message field for project details.
+ - CTA Form Section: "Book a Discovery Call" integration—prominent button or form enabling visitors to schedule a consultation or video call directly (integrated with calendar tool like Calendly).
+ - FAQ Section: Answers to common client questions about process, timelines, and how to prepare for a discovery call.
+ - Footer
